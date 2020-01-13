@@ -1,0 +1,3 @@
+Run the sql file first to create table and have some pokemons in the pokedex
+Since i didn't see any database name requirement for the project so i'll just put like the lab: 2019final
+If I'm wrong then pls edit the db name in /classes/DB.php :p
