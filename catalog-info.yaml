@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: pokemon
+  annotations:
+    github.com/project-slug: biki0109/pokemon
+spec:
+  type: other
+  lifecycle: unknown
+  owner: mimi
