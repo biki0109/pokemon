@@ -4,6 +4,7 @@ metadata:
   name: pokemon
   annotations:
     github.com/project-slug: biki0109/pokemon
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
